@@ -18,24 +18,24 @@ above reference. For example figure 8C:
 
 can be recreated by clicking on Par/Val? on the lower right and entering
 
-*Par/Var:i
-Value:100
-Low:0
+*Par/Var:i  
+Value:100  
+Low:0  
 High:100
 
-Then click Initialconds -> Go
+Then click Initialconds -> Go  
 Continue -> Continue until:50
 
 Click on the middle Par/Var? at the bottom and enter:
 
-*Par/Var:nsig
-Value:20
-Low:0
+*Par/Var:nsig  
+Value:20  
+Low:0  
 High:20
 
 Click on Continue -> Continue until:100
 
-Finally select Window/zoom -> (F)it
+Finally select Window/zoom -> (F)it  
 These model files updated March 4th 2009.
 
 ---
